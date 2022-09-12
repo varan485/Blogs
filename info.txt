@@ -1,2 +1,4 @@
 THIS IS MY BLOGGING SITE
 This file updated.
+This file again updated with new line
+
