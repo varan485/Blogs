@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 THIS IS MY BLOGGING SITE
 This file updated.
 This file again updated with new line
@@ -8,4 +8,4 @@ THIS IS BLOGGING SITE
 
 
 Second change
->>>>>>> f92e70ed56ea17318144d69ceef1cea24f1f0d63
+
